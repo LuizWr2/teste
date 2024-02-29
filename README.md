@@ -1,9 +1,9 @@
 # Cadastros sem Regime Tributário Informado
 
 Status: Não iniciado
-Projeto: KPI’s (../KPI%E2%80%99s%20d82325c7c49b48189ca757318627d788.md)
-Agrupando Por :: Cliente (Cliente%207d0a055a37c14d00af3f4bebde1f8afb.md), Fornecedor (Fornecedor%20be0f982b1bef458ba5e55087579c8954.md)
-Tarefa principal: Aplicativo NFC-e (Aplicativo%20NFC-e%202d668f8ba78e4d95b8a300c80dd3ee28.md)
+Projeto: KPI’s 
+Agrupando Por :: Cliente , Fornecedor
+Tarefa principal: Aplicativo NFC-e 
 Descrição: Número de cadastros onde o regime tributário não foi informado.
 
 > **Prós:**
