@@ -2,7 +2,7 @@
 -Agrupando Por :: Fornecedor, Funcionário, Tipo de Nota
 -Tarefa principal: Aplicativo Compra
 -Descrição: Número total de notas de entrada registradas.
-###Prós:**
+##Prós:**
 -Oferece uma visão clara do número de transações de recebimento de mercadorias ou serviços em um determinado período, o que é fundamental para avaliar a atividade operacional e a -eficiência do processo de recebimento.
 -Ajuda a identificar padrões de compra, sazonalidade e tendências, possibilitando melhor planejamento e gestão de estoque.
 -Pode indicar a eficácia das estratégias de compra e a eficiência dos fornecedores.
