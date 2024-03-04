@@ -1,16 +1,16 @@
 # Volume de Notas
 - Agrupando Por :: Fornecedor, Funcionário, Tipo de Nota
--Tarefa principal: Aplicativo Compra
--Descrição: Número total de notas de entrada registradas.
-##Prós:**
--Oferece uma visão clara do número de transações de recebimento de mercadorias ou serviços em um determinado período, o que é fundamental para avaliar a atividade operacional e a -eficiência do processo de recebimento.
--Ajuda a identificar padrões de compra, sazonalidade e tendências, possibilitando melhor planejamento e gestão de estoque.
--Pode indicar a eficácia das estratégias de compra e a eficiência dos fornecedores.
+- Tarefa principal: Aplicativo Compra
+- Descrição: Número total de notas de entrada registradas.
+## Prós:**
+- Oferece uma visão clara do número de transações de recebimento de mercadorias ou serviços em um determinado período, o que é fundamental para avaliar a atividade operacional e a -eficiência do processo de recebimento.
+- Ajuda a identificar padrões de compra, sazonalidade e tendências, possibilitando melhor planejamento e gestão de estoque.
+- Pode indicar a eficácia das estratégias de compra e a eficiência dos fornecedores.
 ###Contras:**
--Um volume elevado de notas de entrada pode indicar excesso de compras ou ineficiências na gestão de estoque.
--Focar apenas no volume de notas sem considerar o conteúdo ou o valor das transações pode não refletir adequadamente a eficiência ou eficácia das operações de compra
+- Um volume elevado de notas de entrada pode indicar excesso de compras ou ineficiências na gestão de estoque.
+- Focar apenas no volume de notas sem considerar o conteúdo ou o valor das transações pode não refletir adequadamente a eficiência ou eficácia das operações de compra
 ###Módulo Responsável:**
--Compra
+- Compra
 ###Função Principal:**
 -Medir o número total de notas de entrada registradas em um período específico, fornecendo uma métrica para avaliar o volume de atividades de recebimento e a dinâmica das operações de compra.
 ###Quais Configurações deve ter?**
