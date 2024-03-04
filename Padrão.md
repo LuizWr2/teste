@@ -1,5 +1,5 @@
 # Volume de Notas
--Agrupando Por :: Fornecedor, Funcionário, Tipo de Nota
+- Agrupando Por :: Fornecedor, Funcionário, Tipo de Nota
 -Tarefa principal: Aplicativo Compra
 -Descrição: Número total de notas de entrada registradas.
 ##Prós:**
