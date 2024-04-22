@@ -1,0 +1,503 @@
+Propriedade,Agrupando Por :,Descrição,Tags,Tarefa principal
+Taxa de Reaproveitamento,"Por Funcionário , Por Produto , Por Estágio , Por Equipe ",Eficiência com que os materiais são reutilizados ou reciclados no processo de produção.,nan,Aplicativo Produção 
+Produtividade Funcionário/Hora,"Por Equipe , Por Funcionário , Por Estágio ",Quantidade de trabalho ou produção realizada por um funcionário em uma hora de trabalho.,nan,Aplicativo Produção 
+Número de Serviços/Produtos Entregues,"Por Funcionário , Por Equipe , Por Estágio ",Quantidade total de produtos ou serviços concluídos e entregues pela produção em um determinado período.,nan,Aplicativo Produção 
+Taxa de Produção,"Por Funcionário , Por Produto/Serviço , Por Estágio , Por Equipe ",Percentual de produção em uma unidade de tempo específica.,nan,Aplicativo Produção 
+Tempo de Inatividade,"Por Equipe , Por Motivo ",Duração total durante a qual as operações de produção estão paradas e não estão produzindo bens ou serviços.,nan,Aplicativo Produção 
+Eficiência do Equipamento,nan,Eficácia com que os equipamentos de produção são utilizados.,nan,Aplicativo Produção 
+Tempo médio entre Falhas,"Equipamento , Funcionário ",Período médio de funcionamento dos equipamentos ou processos de produção entre falhas ou avarias.,nan,Aplicativo Produção 
+Tempo médio para Reparos,"Por Equipamento , Por Funcionário ",Duração média necessária para reparar uma falha ou avaria nos equipamentos ou processos de produção.,nan,Aplicativo Produção 
+Taxa de Problemas/Incidentes,"Por Produto , Por Funcionário , Por Motivo ",Frequência com que surgem problemas ou incidentes durante a execução de projetos.,nan,Aplicativo Projeto 
+Custo Médio por Tarefa,"Por Produto , Por Funcionário ",Custo médio associado à realização de uma tarefa individual dentro de um projeto.,nan,Aplicativo Projeto 
+Taxa de Metas Alcançadas,"Por Funcionário , Por Produto/Serviço , Por Setor ",Porcentagem de metas estabelecidas no início de um planejamento que foram efetivamente atingidos ao seu término.,nan,Aplicativo Planejamento 
+Taxa de Riscos Identificados,"Por Produto/Serviço , Por Funcionário , Por Setor ",Eficácia com que os riscos são identificados e documentados durante o processo de planejamento de projetos.,nan,Aplicativo Planejamento 
+Custo Médio do Processo de Planejamento,"Por Produto/Serviço , Por Funcionário , Por Setor ",Custo médio associado ao planejamento de projetos.,nan,Aplicativo Planejamento 
+Taxa de eficiência do Processo de Planejamento,"Por Produto/Serviço , Por Funcionário , Por Setor ",Percentual de eficiência no processo de planejamento avaliando a relação entre os recursos investidos no planejamento e os resultados obtidos.,nan,Aplicativo Planejamento 
+Taxa de Alteração da Equipe Padrão,"Por Produto , Por Equipe ",Frequência com que ocorrem mudanças na equipe responsável pelo fluxo de produção dos produtos.,nan,Aplicativo Fluxo de Produto 
+Taxa de Pré-Requisitos,Por Produto ,Proporção de etapas preliminares ou preparatórias concluídas com sucesso no processo de produção de um determinado produto.,nan,Aplicativo Fluxo de Produto 
+Baixa Automática Ativa,"Por Produto , Por Etapas ",Número de produtos cuja etapas do processo de produção efetuam a baixa automática de materiais.,nan,Aplicativo Fluxo de Produto 
+Diferença de Valor,Por Produto/Serviço ,Quantidade de produtos compostos que possuem diferença de valor entre a soma das matérias-primas e preço de venda.,nan,Aplicativo Fabricação  %202b62cebcd67c4bd1bc2d4f3f2fc8e6ed.md)
+Composições Sem Fórmula,"Por Produto/Serviço , Por Funcionário ",Número de produtos compostos que não possuem uma fórmula específica para sua produção.,nan,Aplicativo Fabricação  %202b62cebcd67c4bd1bc2d4f3f2fc8e6ed.md)
+Taxa de Utilização de Máteria-Prima,"Por Produto , Por Funcionário ",Eficiência com que as matérias-primas são utilizadas na produção de produtos compostos.,nan,Aplicativo Fabricação  %202b62cebcd67c4bd1bc2d4f3f2fc8e6ed.md)
+Taxa de Rendimento,"Por Produto/Serviço , Por Funcionário ","Eficiência na produção de produtos compostos, avaliando a proporção de produtos que são fabricados corretamente e atendem aos padrões de qualidade na primeira tentativa.",nan,Aplicativo Fabricação  %202b62cebcd67c4bd1bc2d4f3f2fc8e6ed.md)
+Margem de Lucro Fabricação,"Por Produto , Por Categoria , Por Grupo ","Mede a lucratividade dos produtos compostos, calculando a diferença entre o custo de produção e o preço de venda.",nan,Aplicativo Fabricação  %202b62cebcd67c4bd1bc2d4f3f2fc8e6ed.md)
+Total Desconto Venda,"Por Cliente , Por Funcionário , Por Produto/Serviço ",Valor total de descontos concedidos nas vendas ativas.,nan,Aplicativo Venda 
+Total Frete Venda,"Por Funcionáro , Por Cliente , Por Produto/Serviço ",Valor total de frete aplicado sobre as vendas ativas.,nan,Aplicativo Venda 
+Total Acréscimo Venda,"Por Cliente , Por Funcionário ",Valor total de acréscimo aplicado sobre as vendas ativas efetuadas.,nan,Aplicativo Venda 
+Não faturadas,"Por Cliente , Por Funcionário , Por Tipo de Venda ",Valor total de vendas ativas que não foram faturadas.,nan,Aplicativo Venda 
+Taxa de Churn,"Cliente , Funcionário ",Porcentagem de clientes que deixam de fazer negócios com a empresa no período determinado.,nan,Aplicativo Venda 
+Ticket Médio,"Por Cliente , Por Funcionário ",Valor médio gasto em cada transação de venda,nan,Aplicativo Venda 
+Volume de Vendas,"Por Funcionário , Por Cliente , Por Produto/Serviço ",Quantidade total de vendas ativas registradas no período.,nan,Aplicativo Venda 
+Abaixo do Mínimo,"Por Funcionário , Por Cliente , Por Produto/Serviço ",Número de vendas com produtos abaixo do valor mínimo estipulado.,nan,Aplicativo Venda 
+Inativas Venda,"Por Funcionário , Por Cliente , Por Produto/Serviço ",Valor total de vendas excluídas e canceladas no período.,nan,Aplicativo Venda 
+Total Lucro,"Por Cliente , Por Funcionário , Por Produto/Serviço ",Valor total de Lucro gerado no período.,nan,Aplicativo Venda 
+Vendas Agrupadas,"Cliente , Funcionário ",Número total de vendas que são agrupamentos de outras vendas.,nan,Aplicativo Venda 
+Tempo de Ciclo de Venda,nan,Tempo médio necessário para converter um potencial cliente em um cliente pagante.,"!?, Revisar",Aplicativo Venda 
+Vendas por Região,"Por Produto/Serviço , Por Funcionário ",Número total de vendas registradas em diferentes regiões geográficas.,nan,Aplicativo Venda 
+Volume de Pedidos,"Por Funcionário , Por Cliente , Por Produto/Serviço ",Número total de pedidos de venda ativos realizados.,nan,Aplicativo Pedido de Venda 
+Total de Frete Pedido de Venda,"Por Funcionário , Por Cliente , Por Produto/Serviço ",Valor total de frete incluído nos pedidos realizados.,nan,Aplicativo Pedido de Venda 
+Total de Acréscimo Pedido de Venda,"Por Funcionário , Por Cliente , Por Produto/Serviço ",Valor Total de Acréscimo inserido nos pedidos realizados.,nan,Aplicativo Pedido de Venda 
+Tempo Médio de Processamento de Pedido,"Por Cliente , Por Funcionário , Por Produto/Serviço ","Tempo médio de processamento do pedido, desde o seu início até o momento de sua finalização.",nan,Aplicativo Pedido de Venda 
+Pedidos Atrasados,"Por Funcionário , Por Cliente , Por Produto/Serviço ",Número total de pedidos de venda em atraso.,!?,Aplicativo Pedido de Venda 
+Ticket Médio,"Por Funcionário , Por Cliente , Por Produto/Serviço ",Valor médio de cada pedido de venda realizado.,nan,Aplicativo Pedido de Venda 
+Inativas Pedido de Venda,"Por Funcionário , Por Cliente , Por Produto ",Total de pedidos de venda que foram excluídos ou cancelados.,BI,Aplicativo Pedido de Venda 
+Tempo Médio de Entrega,"Por Funcionário , Por Cliente , Por Produto/Serviço ",Tempo médio desde a confirmação de um pedido de venda até a entrega do produto.,nan,Aplicativo Pedido de Venda 
+Pedidos Recorrentes,"Por Funcionário , Por Cliente , Por Produto/Serviço ",Total de pedidos feitos por clientes que já realizaram compras anteriormente.,nan,Aplicativo Pedido de Venda 
+Pendentes de Envio a Produção,"Por Cliente , Por Funcionário , Por Produto/Serviço ",Total de pedidos de venda que não foram enviados a produção.,!?,Aplicativo Pedido de Venda 
+Abaixo do Valor Mínimo,"Por Funcionário , Por Cliente , Por Produto/Serviço ",Total de pedidos de venda que incluem produtos vendidos abaixo do valor mínimo estabelecido.,nan,Aplicativo Pedido de Venda 
+Total de Pedidos,"Por Funcionário , Por Cliente , Por Produto/Serviço ",Valor total dos pedidos de venda realizados no período.,nan,Aplicativo Pedido de Venda 
+Média de Itens,"Por Funcionário , Por Cliente , Por Grupo , Por Categoria , Por Produto ",Número médio de itens adquiridos em cada venda.,nan,Aplicativo PDV 
+Total de Vendas,"Por Cliente , Por Funcionário , Por Categoria , Por Produto , Por Grupo , Por Condição de Pagamento ",Valor total de vendas realizadas no período.,nan,Aplicativo PDV 
+Inativas PDV,"Por Cliente , Por Funcionário , Por Produto ",Valor das transações de vendas que foram canceladas ou excluídas.,nan,Aplicativo PDV 
+Tempo Médio de Atendimento,"Por Cliente , Por Funcionário ",Tempo médio que cada cliente leva no PDV desde o início até a conclusão da venda.,nan,Aplicativo PDV 
+Total de Acréscimo PDV,"Por Funcionário , Por Produto , Por Grupo , Por Categoria , Tipo de Pagamento ",Valor total gerado por acréscimos em vendas.,nan,Aplicativo PDV 
+Total de Desconto PDV,"Por Funcionário , Por Cliente , Por Produto , Por Categoria , Por Grupo , Por Condição de Pagamento ",Valor total dos descontos concedidos nas vendas realizadas.,nan,Aplicativo PDV 
+Taxa de Notas Fiscais Canceladas NF-e,"Por Funcionário , Por Cliente , Por Produto , Por Transação ",Percentual de notas fiscais canceladas em relação ao total de notas emitidas.,nan,Aplicativo NF-e 
+Taxa de Notas Fiscais Desconhecidas NF-e,"Por Funcionário , Por Cliente , Por Produto , Por Transação ",Percentual de notas fiscais com status de Desconhecida em relação ao total de notas emitidas.,nan,Aplicativo NF-e 
+Valor Total dos Impostos Declarados NF-e,"Por Nota , Por Produto , Por Cliente , Por Transação ",Soma dos valores de impostos que são reportados em todas as notas fiscais emitidas em um determinado período.,BI,Aplicativo NF-e 
+Taxa de Notas com Acréscimo NF-e,"Por Funcionário , Por Cliente , Por Produto , Por Operação ",Percentual de notas fiscais com valor de acréscimo em relação ao total de notas emitidas.,nan,Aplicativo NF-e 
+Taxa de Notas com Frete NF-e,"Por Funcionário , Por Cliente , Por Produto , Por Operação , Sem título ",Percentual de notas fiscais com valor de frete em relação ao total de notas emitidas.,nan,Aplicativo NF-e 
+Taxa de Notas sem Faturamento NF-e,"Por Funcionário , Por Cliente , Por Produto , Por Operação ",Percentual de notas fiscais sem o devido faturamento da venda em relação ao total de notas emitidas,nan,Aplicativo NF-e 
+Taxa de Cartas de Correção Emitidas,"Por Funcionário , Por Nota , Por Cliente ",Percentual de cartas de correções geradas em relação ao total de notas emitidas.,nan,Aplicativo NF-e 
+Taxa de Notas Emitidas Após Faturamento NF-e,"Por Funcionário , Por Cliente , Por Produto , Por Operação ",Percentual de notas fiscais após o faturamento da venda em relação ao total de notas emitidas.,BI,Aplicativo NF-e 
+Taxa de Notas com Desconto NF-e,"Por Funcionário , Por Cliente , Por Produto , Por Operação ",Percentual de notas com valor de desconto em relação ao total de notas fiscais emitidas.,nan,Aplicativo NF-e 
+Taxa de Notas Fiscais Canceladas NFC-e,"Por Produto , Por Funcionário , Por Cliente ",Percentual de notas fiscais canceladas em relação ao total de notas emitidas.,nan,Aplicativo NFC-e 
+Taxa de Notas Fiscais Desconhecidas NFC-e,"Por Funcionário , Por Cliente , Por Produto ",Porcentagem de notas fiscais que apresentam o status de Desconhecida em relação ao total de notas emitidas.,nan,Aplicativo NFC-e 
+Taxa de Notas com Acréscimo NFC-e,"Por Funcionário , Por Cliente , Por Produto ",Percentual de notas fiscais com valor de acréscimo em relação ao total de notas emitidas.,nan,Aplicativo NFC-e 
+Taxa de Notas com Desconto NFC-e,"Por Funcionário , Por Cliente , Por Funcionário ",Percentual de notas fiscais com valor de desconto em relação ao total de notas emitidas.,nan,Aplicativo NFC-e 
+Taxa de Notas Emitidas Após Faturamento NFC-e,"Por Cliente , Por Funcionário , Por Produto ",Percentual de notas fiscais emitidas após o faturamento da venda,nan,Aplicativo NFC-e 
+Taxa de Notas sem Faturamento NFC-e,"Por Funcionário , Por Cliente , Por Produto ",Percentual de notas fiscais emitidas sem o devido faturamento da venda,nan,Aplicativo NFC-e 
+Valor Total dos Impostos Declarados NFC-e,"Por Nota , Por Cliente , Por Produto ",Soma dos valores de impostos que são reportados em todas as notas fiscais de consumidor emitidas em um determinado período.,BI,Aplicativo NFC-e 
+Taxa de Notas Não Autorizadas,"Por Funcionário , Por Serviço , Por Cliente ",Percentual de notas fiscais de serviço que foram rejeitadas pelo cliente,nan,Aplicativo NFS-e 
+Valor Total de Notas Emitidas NFS-e,"Por Funcionário , Por Serviço , Por Cliente ",Valor total de notas fiscais de serviço emitidas em um período específico,nan,Aplicativo NFS-e 
+Valor Total dos Impostos Declarados NFS-e,"Por Cliente , Por Serviço , Por Nota ",Soma dos valores de impostos que são reportados em todas as notas fiscais de serviço emitidas em um determinado período.,BI,Aplicativo NFS-e 
+Taxa de Notas Emitidas,"Por Funcionário , Por Cliente , Por Serviço ",Proporção de Notas Fiscais de Serviço emitidas em relação as Ordens de Serviço criadas.,nan,Aplicativo NFS-e 
+Taxa de Notas Canceladas NFS-e,"Por Funcionário , Por Cliente , Por Serviço ",Percentual de Notas Fiscais de Serviço que foram canceladas.,BI,Aplicativo NFS-e 
+Taxa de Notas Fiscais Desconhecidas NFS-e,"Por Funcionário , Por Cliente , Por Serviço ",Percentual de Notas Fiscais de Serviço que apresentam o status de Desconhecida,BI,Aplicativo NFS-e 
+Taxa de Notas com Acréscimo NFS-e,"Por Funcionário , Por Serviço , Por Cliente ",Percentual de Notas de Serviço Emitidas com valor de acréscimo em relação ao total de notas emitidas.,nan,Aplicativo NFS-e 
+Taxa de Notas com Desconto NFS-e,"Por Funcionário , Por Serviço , Por Cliente ",Percentual de Notas de Serviço com valor de desconto em relação ao total de notas emitidas.,nan,Aplicativo NFS-e 
+Taxa de Notas Emitidas Após Faturamento NFS-e,"Por Funcionário , Por Serviço , Por Cliente ",Percentual de notas emitidas após o faturamento da ordem de serviço em relação ao total de notas emitidas.,nan,Aplicativo NFS-e 
+Taxa de Notas sem Faturamento NFS-e,"Por Funcionário , Por Cliente , Por Serviço ",Percentual de notas fiscais de serviço emitidas sem o devido faturamento da venda em relação ao total de notas emitidas.,nan,Aplicativo NFS-e 
+Taxa de Notas com Frete NFS-e,"Por Cliente , Por Funcionário , Por Serviço ",Percentual de notas fiscais de serviço com valor de frete em relação ao total de notas emitidas.,nan,Aplicativo NFS-e 
+Itens Cancelados,"Por Funcionário , Por Cliente ",Número de produtos lançados nas vendas que posteriormente foram cancelados.,nan,Aplicativo PAF 
+Retirada de Caixa,Por Funcionário ,Total das retiradas não programadas de valores do caixa.,nan,Aplicativo PAF 
+Reforço de Caixa,Por Funcionário ,Valores inseridos no caixa que não foram originados por vendas registradas.,nan,Aplicativo PAF 
+Volume de Vendas,"Por Cliente , Por Funcionário , Por Produto , Por Categoria , Por Grupo ",nan,nan,Aplicativo PAF 
+Tempo Médio de Processamento PAF,"Por Cliente , Por Funcionário ",Média de tempo entre o início da transação e sua conclusão.,nan,Aplicativo PAF 
+Total de Vendas PAF,"Por Cliente , Por Produto , Por Categoria de Produto , Por Grupo de Produto , Por Funcionário ",Valor total das vendas realizadas no período.,nan,Aplicativo PAF 
+Total de Vendas Venda,"Por Cliente , Por Funcionário , Por Produto/Serviço , Por Tipo de Venda ",Receita total gerada pelas vendas do período.,nan,Aplicativo Venda 
+Valor Médio de Crédito,"Por Cliente , Por Funcionário ",Valor médio dos créditos emitidos para os clientes.,nan,Aplicativo Crédito de Cliente 
+Duração Média do Crédito,Por Cliente ,Tempo médio para quitar um crédito em haver de cliente.,nan,Aplicativo Crédito de Cliente 
+Taxa de Utilização de Crédito,"Cliente , Funcionário ",Proporção de créditos em haver que foram efetivamente utilizados pelos clientes.,nan,Aplicativo Crédito de Cliente 
+Média de Lucro Tabela de Preço,"Por Produto/Serviço , Por Cliente , Por Tipo de Venda , Funcionário , Sem título ",Média de lucro obtido por cada tabela de preço criada.,nan,Aplicativo Tabela de Preço 
+Número de Transações,"Por Cliente , Por Produto/Serviço , Por Tipo de Venda , Funcionário ",Número total de transações de vendas realizadas sob cada tabela de preço.,nan,Aplicativo Tabela de Preço 
+Adoção de Novas Tabelas de Preço,nan,Utilização das novas tabelas de preço criadas pela empresa.,nan,Aplicativo Tabela de Preço 
+Taxa de Retenção de Clientes por Tabela de Preço,"Produto/Serviço , Cliente ",Percentual de clientes que continuam comprando utilizando a mesma tabela de preço.,nan,Aplicativo Tabela de Preço 
+Tempo Médio para Atualização de Tabelas de Preço,Funcionário ,Tempo médio entre as atualizações das tabelas de preço.,nan,Aplicativo Tabela de Preço 
+Valor Vitalício do Cliente,nan,Valor vitalício estimado de clientes associados a diferentes tabelas de preço,nan,Aplicativo Tabela de Preço 
+Acima do Markup desejado,"Produto , Grupo , Categoria , Funcionário ",Produtos ou serviços estão sendo vendidos com uma margem de markup acima do nível desejado,nan,Aplicativo Markup 
+Margem de Lucro Markup,"Produto , Grupo , Categoria , Funcionário ",Margem de lucro resultante do markup aplicado aos produtos ou serviços,nan,Aplicativo Markup 
+Taxa de Retenção de Clientes Markup,nan,Percentual de retenção de clientes em relação aos diferentes índices de markup aplicados.,nan,Aplicativo Markup 
+Variação,nan,Variação do índice markup no período.,nan,Aplicativo Markup 
+Vendas por Markup,"Funcionário , Cliente ",Valor total das vendas associadas a diferentes índices de markup.,nan,Aplicativo Markup 
+Total de Frete Mecânica,"Por Funcionário , Por Cliente , Por Serviço , Por Placa ",nan,nan,Aplicativo Mecânica 
+Total de Desconto Mecânica,"Por Funcionário , Por Cliente , Por Serviço , Por Placa ",Valor total de descontos concedidos no período.,nan,Aplicativo Mecânica 
+Total de Acréscimo Mecânica,"Por Cliente , Por Funcionário , Por Serviço , Por Placa ",Valor total de acréscimos aplicados no período.,nan,Aplicativo Mecânica 
+Taxa de Ocupação da Oficina,"Funcionário , Cliente ",Tempo em que a oficina está ocupada em relação à sua capacidade total.,nan,Aplicativo Mecânica 
+Retorno de Veículos,"Por Cliente , Por Placa , Por Serviço , Por Funcionário , Motivo , Sem título ",Frequência com que os veículos retornam à oficina após a execução de um serviço para correções.,nan,Aplicativo Mecânica 
+Receita Média,"Por Cliente , Por Serviço , Por Funcionário , Por Placa ",Valor médio gerada pelas vendas e serviços.,nan,Aplicativo Mecânica 
+Conversação de Orçamentos em Ordens de Serviço,"Por Funcionário , Por Cliente , Por Serviço , Por Placa ",Orçamentos que são convertidos em ordens de serviço.,nan,Aplicativo Mecânica 
+Serviços fora do Prazo,"Por Funcionário , Por Cliente , Por Serviço , Por Placa ",Número de serviços que são entregues após o prazo prometido ao cliente.,nan,Aplicativo Mecânica 
+Custo Total de Comissões como Percentual das Vendas,"Por Funcionário , Por Cliente , Por Representante , Por Agência ",nan,nan,Aplicativo Comissão de Venda 
+Vendas Qualificadas para Comissão,"Por Funcionário , Por Representante , Por Agência ",Número de vendas que foram classificadas para geração de comissão.,nan,Aplicativo Comissão de Venda 
+Variação do Saldo de Caixa,nan,Mudanças no saldo de caixa disponível da empresa entre dois períodos de tempo.,nan,Aplicativo Caixa 
+Dias de Caixa Disponível,nan,Tempo que a empresa pode continuar operando com seu caixa e equivalentes de caixa atuais.,nan,Aplicativo Caixa 
+Índice de Liquidez Imediata,nan,Capacidade imediata da empresa de cumprir suas obrigações de curto prazo e gerenciar eficazmente os riscos financeiros.,nan,Aplicativo Caixa 
+Razão de Cobertura de Caixa,nan,"Capacidade da empresa de pagar suas obrigações de dívida, incluindo o pagamento do principal e juros, usando o fluxo de caixa operacional.",nan,Aplicativo Caixa 
+Fluxo de Caixa Livre,nan,"Valor que sobra das operações da empresa depois de cobrir os investimentos em capital, como compra de equipamentos ou melhorias nas instalações.",nan,Aplicativo Caixa 
+Valor de Desconto Obtido,Por Condição de Pagamento ,Valor total economizado pela empresa através de descontos conseguidos em pagamentos efetuados.,nan,Aplicativo Caixa 
+Valor de Juros Pagos,"Por Condição de Pagamento , Por Fornecedor ",Valor total de juros sobre os pagamentos registrados no caixa.,BI,Aplicativo Caixa 
+Valor das Exclusões,"Por Tipo , Por Funcionário ",Valor total das parcelas excluídas do caixa.,BI,Aplicativo Caixa 
+Sangrias do Período,Por Funcionário ,Quantidade de retiradas de dinheiro não programadas do caixa.,nan,Aplicativo Caixa 
+Pagamentos Realizados,"Por Fornecedor , Por Condição de Pagamento ",Valor total dos pagamentos registrados em caixa.,nan,Aplicativo Caixa 
+Fluxo de Caixa,nan,Entradas e saídas de valores do caixa da empresa durante um período específico.,nan,Aplicativo Caixa 
+Volume de Transações Caixa,"Por Condição de Pagamento , Sem título ",Número de transações registradas no caixa.,nan,Aplicativo Caixa 
+Recebimentos Parciais,"Cliente , Conta Bancária , Condição de Pagamento , Tipo de Pagamento ",Número de recebimentos parciais realizados no período.,nan,Aplicativo Recebimento 
+Total A Receber,"Cliente , Conta Bancária , Condição de Pagamento , Tipo de Pagamento ",Valor Total de lançamentos a serem recebidos.,nan,Aplicativo Recebimento 
+Parcelas Vencidas,"Cliente , Conta Bancária , Condição de Pagamento , Tipo de Pagamento ",nan,nan,Aplicativo Recebimento 
+Total de Descontos Recebimento,"Cliente , Conta Bancária , Condição de Pagamento , Funcionário , Tipo de Pagamento ",Valor total de descontos aplicados nos recebimentos efetuados.,nan,Aplicativo Recebimento 
+Total de Recebimentos Recebimento,"Cliente , Conta Bancária , Condição de Pagamento , Funcionário , Tipo de Pagamento ",Valor total recebido no período.,nan,Aplicativo Recebimento 
+Renovados,Por Cliente ,Número de contratos que foram renovados no período.,nan,Aplicativo Contratos 
+Valor Total de Contratos,nan,Soma total de todos os contratos que estão atualmente ativos.,nan,Aplicativo Contratos 
+Média de Contratos,nan,Exibe a média de contratos por cliente.,nan,Aplicativo Contratos 
+Vencidos,Por Cliente ,Número de contratos vencidos.,nan,Aplicativo Contratos 
+Contratos Cancelados,"Por Funcionário , Por Motivo , Sem título ",Números de contratos que foram registrados e posteriormente cancelados.,nan,Aplicativo Contratos 
+Valor Médio de Mensalidade,Por Cliente ,Valor médio das mensalidades geradas por cliente ou contrato em um determinado período.,nan,Aplicativo Contratos 
+Taxa de Adesão,nan,Porcentagem de contratos fechados no período.,nan,Aplicativo Contratos 
+Receita,Por Cliente ,Total de receita gerada pelas mensalidades pagas pelos clientes.,nan,Aplicativo Contratos 
+Valor Total Recebido Após o Vencimento,"Por Cliente , Por Conta Bancária ",Soma dos valores de boletos que foram pagos pelos clientes após a data de vencimento estipulada.,BI,Aplicativo Boletos 
+Valor Total de Recebimento Antecipado,"Por Cliente , Por Conta Bancária ",Valor total recebido de boletos que foram pagos pelos clientes antes da data de vencimento estipulada.,nan,Aplicativo Boletos 
+Tempo Médio de Recebimento Boletos,"Por Cliente , Por Conta Bancária ",Duração média entre a emissão de um boleto e seu pagamento efetivo pelo cliente.,nan,Aplicativo Boletos 
+Valor Total de Boletos Emitidos Boletos,"Por Cliente , Por Conta Bancária , Por Funcionário ",Soma dos valores de todos os boletos gerados em um determinado período.,nan,Aplicativo Boletos 
+Valor Total de Boletos Recebidos,"Por Cliente , Por Conta Bancária ",Soma dos valores de todos os boletos emitidos que foram efetivamente pagos pelos clientes.,nan,Aplicativo Boletos 
+Enviados Para Protesto,"Por Cliente , Por Conta Bancária ",Valor Total de boletos encaminhados para protesto em cartório devido ao não pagamento pelos clientes até a data de vencimento.,BI,Aplicativo Boletos 
+Renegociação,"Por Cliente , Por Conta Bancária ",Soma dos valores de todos os boletos que estão atualmente em processo de renegociação com os clientes.,BI,Aplicativo Boletos 
+Pendentes de Impressão,"Por Cliente , Por Conta Bancária ","Número total de boletos que foram gerados pelo sistema, mas ainda não foram impressos.",nan,Aplicativo Boletos 
+Tempo Médio de Processamento TEF,"Por Cliente , Por Funcionário , Por Condição de Pagamento ",Tempo médio necessário para processar uma transação.,nan,Aplicativo TEF 
+Falhas de Transações,"Por Cliente , Por Funcionário , Por Condição de Pagamento ",Número de falhas nas transações TEF.,nan,Aplicativo TEF 
+Volume de Transações TEF,"Por Cliente , Por Funcionário , Por Condição de Pagamento ",Número total de transações TEF realizadas.,nan,Aplicativo TEF 
+Valor Médio de Transação,"Por Cliente , Por Funcionário , Por Condição de Pagamento ",Valor médio das transações processadas eletronicamente.,nan,Aplicativo TEF 
+Valor de Estornos,"Por Funcionário , Por Cliente , Por Condição de Pagamento ",Valor total dos estornos realizados em transações TEF.,nan,Aplicativo TEF 
+Disponibilidade do Sistema,nan,Porcentagem do tempo em que o sistema de TEF está disponível.,nan,Aplicativo TEF 
+Transações Parceladas,"Por Funcionário , Por Cliente ",Valor total das transações realizadas por meio de TEF que foram parceladas.,nan,Aplicativo TEF 
+Total de Transações,"Por Cliente , Por Funcionário ",Valor total de transações realizadas.,nan,Aplicativo TEF 
+Transações Negadas,"Por Cliente , Por Funcionário , Por Condição de Pagamento ",Número total de transações TEF que foram negadas.,nan,Aplicativo TEF 
+Correções,nan,Número de correções efetuadas no Demonstrativo do Resultado do Exercício - DRE.,nan,DRE 
+Ebitda,nan,"Resultados gerados pelas atividades operacionais cotidianas, excluindo os efeitos de financiamento e de decisões contábeis, como depreciação e amortização.",nan,DRE 
+Despesas,nan,Valor total de despesas da empresa.,nan,DRE 
+Receitas,nan,Valor total de receitas obtido em operações principais e secundárias da empresa.,nan,DRE 
+Lucro Líquido,nan,"Lucro gerado após cobrir todas as despesas, incluindo custos operacionais, juros, impostos e outros encargos.",nan,DRE 
+Margem Bruta,nan,Percentual de receitas que resta após cobrir o custo direto dos bens vendidos.,nan,DRE 
+Margem Líquida,nan,Percentual de lucro gerado após todos os custos e despesas.,nan,DRE 
+Crescimento da Receita,nan,Aumento do percentual da receita de um período para outro.,nan,DRE 
+Custo dos Produtos Vendidos - CPV,nan,Custo total associado à produção dos bens ou serviços.,nan,DRE 
+Despesas Operacionais,nan,"Valor das despesas que não estão diretamente relacionadas à produção de bens ou serviços, mas que são necessárias para a operação diária da empresa.",nan,DRE 
+Margem Operacional,nan,"Eficácia com que a empresa gera lucro a partir de suas operações principais, excluindo receitas e despesas não operacionais, juros e impostos.",nan,DRE 
+Índice de Cobertura de Juros,nan,Capacidade de pagar os juros sobre as dívidas com os lucros operacionais gerados.,nan,DRE 
+Liquidez Corrente,nan,"Capacidade da empresa de pagar suas dívidas de curto prazo  utilizando seus ativos de curto prazo
+.",nan,DRE 
+Valor Total de Custo,nan,Soma dos custos associados a cada centro de custo.,nan,Aplicativo Centro de Custo 
+Taxa de Crescimento dos Custos,nan,Variação percentual dos custos em cada centro de custo ao longo do tempo.,nan,Aplicativo Centro de Custo 
+Taxa de Custos Indiretos,nan,Percentual de custos indiretos alocados nos centros de custo.,BI,Aplicativo Centro de Custo 
+Margem de Contribuição,nan,"Rentabilidade dos centros de custo, subtraindo os custos variáveis das receitas geradas.",nan,Aplicativo Centro de Custo 
+Tempo Médio para Alcance da Meta,"Por Cliente , Por Funcionário , Por Produto/Serviço , Por Grupo , Por Categoria , Por Tipo de Venda ",Tempo médio que leva para a equipe de vendas atingir as metas estabelecidas.,nan,Aplicativo Metas de Venda 
+Ajuste de Metas,Por Funcionário ,Frequência com que as metas de vendas são ajustadas.,nan,Aplicativo Metas de Venda 
+Custo por Meta Alcançada,"Por Funcionário , Por Produto/Serviço , Por Grupo , Por Categoria , Por Tipo de Venda ",Custo total incorrido para alcançar cada meta de venda específica.,nan,Aplicativo Metas de Venda 
+Taxa de Crescimento Anual Composta,nan,Crescimento geral ao longo do tempo.,nan,Aplicativo Financeiro 
+Eficácia do Ciclo de Cobrança,nan,"Avalia a eficácia do processo de cobrança, medindo as tentativas e resultados das cobranças realizadas no período.",Revisado,Aplicativo Financeiro 
+Recebimentos em Atraso,"Por Cliente , Por Conta Bancária ",Valor Total de Contas a Receber em atraso.,BI,Aplicativo Financeiro 
+Índice de Endividamento,nan,Avalia a proporção da dívida total da empresa em relação ao seu capital próprio.,nan,Aplicativo Financeiro 
+Custo Operacional,nan,Soma total de todas as despesas e gastos associados à operação diária da empresa.,Revisado,Aplicativo Centro de Custo 
+Taxa de Retenção de Clientes Financeiro,nan,Porcentagem de clientes que a empresa conseguiu manter durante um determinado período em comparação com o número inicial de clientes no início desse período.,nan,Aplicativo Financeiro 
+Lançamentos Não Conciliados,"Por Cliente , Por Conta Bancária ",Número de transações financeiras registradas que ainda não foram conciliadas com extratos bancários.,nan,Aplicativo Financeiro 
+Total de Juros Pagos,"Por Conta Bancária , Por Fornecedor ",Total de juros pagos sobre as dívidas em um determinado período.,BI,Aplicativo Financeiro 
+Total de Multas Pagas,"Por Conta Bancária , Por Fornecedor , Sem título ",Soma das multas pagas pela empresa em um determinado período.,BI,Aplicativo Financeiro 
+Total de Descontos Concedidos,"Por Cliente , Por Conta Bancária ",Valor total de descontos concedidos sobre os lançamentos.,BI,Aplicativo Financeiro 
+Comissão Não Paga,"Por Funcionário , Por Representante ","Valor total de comissões que foram acumuladas, mas ainda não foram pagas aos representantes ou vendedores.",nan,Aplicativo Financeiro 
+Parcelas Excluídas,"Por Cliente , Por Conta Bancária , Funcionário ","Valor total de parcelas que foram excluídas do sistema, adquirindo o status de inativas.",BI,Aplicativo Financeiro 
+Parcelas sem Conta,"Por Cliente , Funcionário , Sem título ",Valor total de transações registradas que não foram alocadas em uma conta específica.,BI,Aplicativo Financeiro 
+Prazo Médio de Recebimento,"Por Cliente , Por Condição de Pagamento ",Tempo médio que a empresa leva para receber pagamentos de seus clientes após a emissão das faturas.,nan,Aplicativo Financeiro 
+Prazo Médio de Pagamento,Por Fornecedor ,nan,nan,Aplicativo Financeiro 
+Ciclo Financeiro,nan,Período de tempo que leva para a empresa converter suas atividades operacionais em fluxo de caixa líquido.,nan,Aplicativo Financeiro 
+Variação Percentual das Receitas,nan,"Avalia o crescimento ou declínio das receitas da empresa em um determinado período, em comparação com um período anterior.",nan,Aplicativo Financeiro 
+Variação Percentual das Despesas,nan,Mudança percentual nas despesas totais da empresa de um período para outro.,nan,Aplicativo Financeiro 
+Custo Fixo Médio,nan,nan,Revisado,Aplicativo Centro de Custo 
+Pendentes de Finalização,"Fornecedor , Produto , Funcionário , Tipo de Nota ",Número de notas de entrada que não foram finalizadas.,nan,Aplicativo Compra 
+Vínculos Realizados,"Por Fornecedor , Por Funcionário , Por Produto/Serviço , Por Tipo de Nota ",Número de produtos que foram vinculados a outros produtos já cadastrado no sistema por meio das notas de entrada.,nan,Aplicativo Compra 
+Finalizadas Sem Conferência,"Por Funcionário , Por Produto/Serviço , Por Fornecedor , Por Tipo de Nota ",Número de notas de foram finalizadas sem a conferência de materiais.,nan,Aplicativo Compra 
+Total de impostos,"Por Funcionário , Por Fornecedor , Por Produto/Serviço , Por Tipo de Nota ",Valor Total de Impostos sobre as notas de entrada.,"Cofins, FCP, ICMS, ICMS ST, IPI, PIS",Aplicativo Compra 
+Total de Frete,"Por Funcionário , Por Fornecedor , Por Produto/Serviço , Por Tipo de Nota ",Valor total de frete incluído nas notas de entrada.,nan,Aplicativo Compra 
+Ciclo Médio de Compra,"Por Funcionário , Por Fornecedor , Por Produto/Serviço ","Duração média do ciclo de compra, desde a aprovação da solicitação até a entrega.",nan,Aplicativo Compra 
+Custo Total,"Por Fornecedor , Por Produto , Por Funcionário , Por Tipo de Nota ",Soma total dos valores de custo das notas de entrada.,nan,Aplicativo Compra 
+Taxa de Conformidade de Fornecedores,nan,Proporção de fornecedores que atendem aos padrões definidos pela empresa.,nan,Aplicativo Compra 
+Sem Financeiro Geradoa,"Funcionário , Fornecedor ",Número de notas de compra finalizadas sem o envio da parcela ao financeiro.,nan,Aplicativo Compra 
+Sem Envio ao Estoque,"Fornecedor , Funcionário ",Número de notas de entrada em que os produtos não foram enviados ao estoque.,nan,Aplicativo Compra 
+Fornecedores Ativos,"Funcionário , Produtos ",Número total de fornecedores com os quais a empresa efetua transações regularmente.,nan,Aplicativo Compra 
+Volume de Notas,"Fornecedor , Funcionário , Tipo de Nota ",Número total de notas de entrada registradas.,nan,Aplicativo Compra 
+CTE Sem Vínculo,nan,Números de notas de conhecimento de transporte que não estão vinculadas a respectiva nota de compra.,nan,Aplicativo Compra 
+CTE Vinculados,"Fornecedor , Funcionário ",Número de notas de conhecimento de transporte que foram corretamente vinculadas às respectivas notas de compra.,nan,Aplicativo Compra 
+Tempo Médio de Aprovação,"Funcionário , Produto ",Tempo médio para aprovação de solicitações de compra.,nan,Aplicativo Solicitação de Compra 
+Revisadas,"Funcionário , Produto ","Número de solicitações que após recusadas, foram revisadas e enviadas para nova análise.",nan,Aplicativo Solicitação de Compra 
+Rejeitadas,"Funcionário , Produto ",Número de solicitações de compra rejeitadas no período.,nan,Aplicativo Solicitação de Compra 
+Média de Itens por Solicitação,"Funcionário , Produto ",Média de itens incluídos nas solicitações de compra efetuadas.,nan,Aplicativo Solicitação de Compra 
+Aprovadas,"Funcionário , Produto ",Número de solicitações de compra que foram aprovadas no período.,nan,Aplicativo Solicitação de Compra 
+Total Desconto Proposta,"Funcionário , Cliente , Produto/Serviço ",Valor total de descontos aplicados sobre as propostas registradas,nan,Aplicativo Proposta 
+Média de Lucro Proposta,"Funcionário , Cliente , Produto ",Lucro médio gerado por cada proposta de venda.,nan,Aplicativo Proposta 
+Recusadas,"Funcionário , Cliente , Produto , Motivo ",Número de propostas que foram recusadas pelos clientes.,nan,Aplicativo Proposta 
+Total Frete Proposta,"Funcionário , Cliente , Produto ",Valor total de frete incluído nas propostas.,nan,Aplicativo Proposta 
+Total Acréscimo Proposta,"Funcionário , Cliente , Produto ",Valor total dos acréscimos incluídos nas propostas registradas,nan,Aplicativo Proposta 
+Volume de Propostas,"Funcionário , Cliente , Produto ",Número total de propostas registradas.,nan,Aplicativo Proposta 
+Valor Total Proposta,"Funcionário , Cliente , Produto ",Valor total das propostas registradas no período.,nan,Aplicativo Proposta 
+Agendamento Em Aberto,"Funcionário , Cliente ",Número de agendamentos que estão em aberto no período.,nan,Aplicativo Agendamento 
+Agendamento Cancelados,"Funcionário , Cliente ",Número de Agendamentos que foram cancelados no período.,nan,Aplicativo Agendamento 
+Urgentes,"Cliente , Funcionário ",Número de agendamentos urgentes do período.,nan,Aplicativo Agendamento 
+Taxa de Ocupação,"Setor , Funcionário , Equipamento ",Percentual de ocupação de recursos nos agendamentos efetuados.,nan,Aplicativo Agendamento 
+Custo de Carregamento de Estoque,"Por Produto , Por Fornecedor ",Custo total associado à manutenção e armazenagem do estoque da empresa.,nan,Aplicativo Estoque 
+Valor Total do Estoque - Estoque,"Por Produto , Por Fornecedor ",Valor monetário total dos produtos armazenados em estoque.,BI,Aplicativo Estoque 
+Nível de Serviço de Estoque,"Por Produto , Por Fornecedor ",Capacidade de atender à demanda dos clientes através do estoque disponível.,nan,Aplicativo Estoque 
+Taxa de Falta de Estoque,"Por Produto , Por Fornecedor ",Frequência com que os itens não estão disponíveis para venda ou uso quando solicitados.,nan,Aplicativo Estoque 
+Tempo de Reposição,"Por Produto , Por Fornecedor ",Período necessário para reabastecer o estoque de um produto desde o momento em que é identificada a necessidade de reposição até a chegada efetiva do produto ao estoque.,nan,Aplicativo Estoque 
+Taxa de Produtos Acima do Estoque Máximo,"Por Produto , Por Fornecedor ",Proporção de produtos que excedem o nível de estoque máximo estabelecido.,nan,Aplicativo Estoque 
+Taxa de Produtos Abaixo do Estoque Mínimo,"Por Produto , Por Fornecedor ",Proporção de produtos que estão abaixo do nível mínimo de estoque estabelecido,nan,Aplicativo Estoque 
+Valor Total de Perdas,"Por Produto , Por Fornecedor , Por Funcionário , Por Motivo ",Valor total das perdas ocorridas no estoque.,BI,Aplicativo Estoque 
+Tempo Total de Balanço,"Por Funcionário , Por Produto , Por Fornecedor ",Duração total necessária para realizar o balanço completo do inventário da empresa.,nan,Aplicativo Balanço de Estoque 
+Frequência de Balanços,"Por Produto , Por Funcionário , Por Fornecedor ",Regularidade com a empresa realiza contagens físicas completas do inventário.,nan,Aplicativo Balanço de Estoque 
+Valor Total do Estoque Balanço de Estoque,"Por Produto , Por Fornecedor ",Valor total dos produtos em estoque imediatamente após a realização do balanço de estoque.,nan,Aplicativo Balanço de Estoque 
+Taxa de Atualizações de Estoque,"Por Produto , Por Funcionário , Por Fornecedor ",Frequência das atualizações feitas nos registros de inventário como resultado dos balanços de estoque.,nan,Aplicativo Balanço de Estoque 
+Balanços com Estoques Negativos,"Por Produto , Por Funcionário , Por Fornecedor ",Frequência com que se registram quantidades negativas de itens durante os balanços de inventário.,BI,Aplicativo Balanço de Estoque 
+Tempo Médio para Reabastecimento,"Por Variação , Por Fornecedor ",Período necessário para repor itens de uma grade específica no estoque após sua venda ou utilização.,!?,Aplicativo Grade 
+Margem de Lucro,"Por Variação , Por Fornecedor ",Percentual de lucratividade de produtos por grade.,nan,Aplicativo Grade 
+Volume de Venda,"Por Variação , Por Fornecedor , Por Cliente ",Quantidade total de produtos de grade vendidos.,nan,Aplicativo Grade 
+Estoque Máximo,"Por Variação , Por Fornecedor ",Quantidade máxima em estoque de produtos de grade.,nan,Aplicativo Grade 
+Estoque Mínimo,"Por Variação , Por Fornecedor ",Quantidade mínima em estoque de produtos de grade,nan,Aplicativo Grade 
+Total de Perdas,"Por Variação , Por Fornecedor , Por Motivo , Sem título ",Valor total de perdas de produtos de grade no período.,nan,Aplicativo Grade 
+Custo Médio,"Por Variação , Por Fornecedor ",Custo médio de produtos por grade.,nan,Aplicativo Grade 
+Valor Total,"Por Variação , Por Fornecedor ",Valor Total em estoque de produtos por grade.,nan,Aplicativo Grade 
+Valor Total de Produtos Expirados,"Por Produto , Por Fornecedor ",Custo financeiro associado aos produtos de um determinado lote que se tornaram obsoletos ou inutilizáveis devido a data de validade.,nan,Aplicativo Lote 
+Tempo Médio de Rotação,"Por Produto , Por Fornecedor ",Período médio que um lote específico de produtos permanece em estoque antes de ser vendido ou utilizado.,nan,Aplicativo Lote 
+Taxa de Utilização de Capacidade,"Por Produto , Por Fornecedor ",Grau em que a capacidade produtiva disponível é efetivamente utilizada para produzir um lote específico de produtos.,nan,Aplicativo Lote 
+Tempo Médio de Vida Útil Restante,"Por Produto , Por Fornecedor ",Duração estimada que um lote específico de produtos ou materiais tem antes de se tornar obsoleto,"!?, Revisar",Aplicativo Lote 
+Eficiência de Rotação de Estoque,"Por Produto , Por Fornecedor ",Rapidez com que um lote específico de produtos é vendido e substituído ao longo de um período.,"!?, Revisar",Aplicativo Lote 
+Taxa de Lotes com Alterações,"Por Produto , Por Fornecedor ",Proporção de lotes de produtos ou materiais que sofreram alterações após a sua produção inicial.,nan,Aplicativo Lote 
+Valor Total de Desconto,"Por Produto , Por Fornecedor ",Montante financeiro total de descontos aplicados a um lote específico de produtos.,nan,Aplicativo Lote 
+Valor Total de Acréscimo Lote,"Por Produto , Por Fornecedor ","Valor Total adicionado a um lote específico de produtos devido a acréscimos, que podem incluir taxas adicionais, serviços extras, melhorias no produto ou encargos devido a circunstâncias especiais.",nan,Aplicativo Lote 
+Taxa de Pedidos Atendidos,"Por Produto , Por Fornecedor ",Eficiência com que os pedidos dos clientes são preenchidos diretamente a partir do estoque disponível.,nan,Aplicativo Múltiplos Estoques 
+Taxa de Devoluções,"Por Produto , Por Funcionário , Por Fornecedor ",Proporção de produtos que são devolvidos ao estoque após serem vendidos ou distribuídos.,nan,Aplicativo Múltiplos Estoques 
+Nível de Estoque Mínimo,"Por Produto , Por Fornecedor ",Quantidade mínima de um produto ou material que deve ser mantida em estoque para garantir que a produção ou a venda continue sem interrupções devido à falta de insumos.,nan,Aplicativo Múltiplos Estoques 
+Nível de Estoque Máximo,"Por Produto , Por Fornecedor ",Quantidade máxima de um item que uma empresa decide manter em estoque.,nan,Aplicativo Múltiplos Estoques 
+Taxa de Ruptura de Estoque,"Por Produto , Por Fornecedor ",Frequência com que os itens de estoque estão indisponíveis quando um cliente solicita ou deseja comprar um produto.,nan,Aplicativo Múltiplos Estoques 
+Custo de Transferência entre Locais,Por Produto ,Custo total associado à movimentação de itens de um ponto de estoque para outro dentro da mesma organização.,nan,Aplicativo Múltiplos Estoques 
+Taxa de Utilização de Espaço de Armazenamento,"Por Produto , Por Fornecedor ",Espaço utilizado em estoque para armazenar produtos.,nan,Aplicativo Múltiplos Estoques 
+Taxa de Conversões Automáticas vs. Manuais,"Funcionário , Produto , Fornecedor ",Proporção de conversões de unidades que são realizadas automaticamente em comparação com as feitas manualmente.,nan,Aplicativo SubUnidade 
+Conversões Revertidas,"Funcionário , Produto , Fornecedor ",Número de vezes que conversões de unidade de produto foram revertidas.,nan,Aplicativo SubUnidade 
+Taxa de Depreciação de Ativos,nan,Mede o ritmo em que os ativos de uma empresa perdem valor ao longo do tempo.,BI,Aplicativo Patrimônio 
+Custo Total de Ativos,nan,Valor total investido em todos os ativos da empresa.,BI,Aplicativo Patrimônio 
+Valor de Retorno sobre Ativos,nan,Eficiência com que uma empresa utiliza seus ativos para gerar lucro.,nan,Aplicativo Patrimônio 
+Tempo Médio entre Falhas,Por Ativo ,Tempo médio decorrido entre uma falha e a próxima em um ativo ou componente.,BI,Aplicativo Patrimônio 
+Tempo Médio para Reparo,Por Ativo ,Mede o tempo médio necessário para reparar um ativo ou equipamento após uma falha ou avaria,BI,Aplicativo Patrimônio 
+Taxa de Utilização de Ativos,Por Ativo ,Proporção do uso efetivo dos ativos em comparação com sua capacidade total ou ideal.,nan,Aplicativo Patrimônio 
+Custo de Manutenção,nan,Total de despesas envolvidas na manutenção dos ativos da empresa.,BI,Aplicativo Patrimônio 
+Tempo Médio de Venda de Ativos,nan,"Período que leva, em média, para a empresa vender seus ativos.",nan,Aplicativo Patrimônio 
+Valor Residual de Ativos,nan,Valor estimado que um ativo terá no final de sua vida útil,nan,Aplicativo Patrimônio 
+Custo Operacional de Ativos,nan,Total de despesas associadas à operação e manutenção de ativos em uma organização.,BI,Aplicativo Patrimônio 
+Eficiência Energética de Ativos,Por Ativos ,Desempenho dos ativos da empresa em termos de consumo de energia versus a produtividade ou saída que eles geram.,nan,Aplicativo Patrimônio 
+Taxa de Conformidade com Escalas,nan,Medida essencial para acompanhar a adesão dos funcionários aos horários e turnos de trabalho designados.,nan,Aplicativo Ficha-Ponto 
+Taxa de Funcionários sem Horário Definido,Por setor ,Monitora os funcionários cujo horário da jornada de trabalho não foi definido.,nan,Aplicativo Ficha-Ponto 
+Taxa de Ausências Justificadas,"Por Funcionário , Por Setor ",Porcentagem de faltas dos funcionários que são acompanhadas de uma justificativa válida.,Revisar,Aplicativo Ficha-Ponto 
+Taxa de Lançamentos Manuais,"Por Funcionário , Por Setor ",Percentual de registros de ponto que são feitos manualmente em relação ao total de registros.,nan,Aplicativo Ficha-Ponto 
+Tempo de Processamento da Folha de Pagamento,nan,Período necessário para completar todo o ciclo de processamento da folha de pagamento,nan,Aplicativo Folha de Pagamento 
+Taxa de Adesão a Pagamentos Digitais,"Por Funcionário , Por Setor ",Mede a proporção de pagamentos realizados digitalmente em comparação com outros métodos.,nan,Aplicativo Folha de Pagamento 
+Taxa de Pagamentos Pontuais,"Por Funcionário , Por Setor ",Porcentagem de pagamentos feitos aos funcionários que são realizados dentro do período estipulado,nan,Aplicativo Folha de Pagamento 
+Valor Total de INSS,"Por Setor , Por Funcionário ",Soma de todas as contribuições ao Instituto Nacional do Seguro Social  feitas pela empresa em nome de seus funcionários em um período específico,nan,Aplicativo Folha de Pagamento 
+Valor Total de FGTS,"Por Setor , Por Funcionário ",Soma de todas as contribuições para o Fundo de Garantia do Tempo de Serviço  feitas pela empresa para todos os seus funcionários.,nan,Aplicativo Folha de Pagamento 
+Média Salarial,"Por Funcionário , Por Setor ",Valor médio dos salários pagos aos funcionários em um determinado período.,nan,Aplicativo Folha de Pagamento 
+Folhas em Aberto,"Por Funcionário , Por Setor ","Quantidade de folhas de pagamento que ainda não foram processadas, aprovadas ou pagas dentro de um determinado ciclo de pagamento.",nan,Aplicativo Folha de Pagamento 
+Vínculos Financeiros Divergentes,"Por Funcionário , Por Setor ",Identificação de discrepâncias ou divergências entre os registros financeiros e a folha de pagamento.,nan,Aplicativo Folha de Pagamento 
+Taxa de Rotatividade de Funcionários,Por Setor ,Mede a proporção de empregados que deixam uma empresa em relação ao número total de empregados em um determinado período.,"!?, Revisar",Aplicativo Funcionários 
+Taxa de Retenção de Funcionários,nan,Percentagem de empregados que permanecem na empresa durante um determinado período.,"!?, Revisar",Aplicativo Funcionários 
+Taxa de Absenteísmo,nan,Frequência e a duração com que os colaboradores se ausentam do trabalho.,"!?, Revisar",Aplicativo Funcionários 
+Horas de Treinamento,"Por Funcionário , Por Setor ",Total de horas dedicadas à formação e ao desenvolvimento profissional dos colaboradores em um período específico.,nan,Aplicativo Funcionários 
+Custo Médio por Funcionário,Por Setor ,Custo total suportado pela empresa por cada funcionário,nan,Aplicativo Funcionários 
+Taxa de Utilização de Benefícios,"Por Funcionário , Por Setor ",Mensura o quanto os colaboradores da empresa estão efetivamente usando os benefícios que lhes são oferecidos.,nan,Aplicativo Funcionários 
+Taxa de Acidentes de Trabalho,Por Setor ,Frequência de incidentes de segurança que resultam em lesão no ambiente de trabalho.,!?,Aplicativo Funcionários 
+Ferramentas Vinculadas,"Por Funcionário , Por Setor ",Monitoramento e controle dos recursos ou ferramentas de trabalho que são atribuídos a cada funcionário.,"!?, Revisar",Aplicativo Funcionários 
+Taxa de Atualização Salarial,"Por Funcionário , Por Setor ",Frequência e a proporção com que os salários dos funcionários são revisados e ajustados,nan,Aplicativo Funcionários 
+Taxa de Pensão Alimentícia,"Por Setor , Por Funcionário ",Monitora a porcentagem dos descontos em folha de pagamento destinados ao pagamento de pensão alimentícia por parte dos colaboradores que têm essa obrigação legal.,nan,Aplicativo Funcionários 
+Taxa de Atualização de Função,"Por Funcionário , Por Setor ",Frequência com que os colaboradores passam por mudanças em suas funções ou responsabilidades.,nan,Aplicativo Funcionários 
+Taxa de Férias Concedidas,"Por Funcionário , Por Setor ",Proporção de funcionários que utilizam seu direito a férias dentro de um determinado período.,nan,Aplicativo Funcionários 
+Taxa de Funcionários com Dependentes,nan,Porcentagem de funcionários da empresa que possuem dependentes,nan,Aplicativo Funcionários 
+Retorno sobre Investimento,"Por Associado , Por Placa ",nan,nan,Aplicativo Rateio 
+Taxa de Precisão no Rateio,"Por Associado , Por Placa ",nan,nan,Aplicativo Rateio 
+Tempo Médio para Rateio,"Por Associado , Por Placa ",nan,nan,Aplicativo Rateio 
+Taxa de Atraso no Rateio,"Por Associado , Por Placa ",nan,nan,Aplicativo Rateio 
+Taxa de Sucesso em Auditorias,nan,nan,nan,Aplicativo Rateio 
+Valor Médio por Rateio,"Por Associado , Por Placa ",nan,nan,Aplicativo Rateio 
+Média de Cotas por Rateio,nan,nan,nan,Aplicativo Rateio 
+Valor Total de Rateios,"Por Associado , Por Placa ",nan,nan,Aplicativo Rateio 
+Taxa de Ocorrências com danos Totais,"Por Associado , Por Placa ",nan,nan,Aplicativo Ocorrências 
+Taxa de Ocorrências com danos Parciais,"Por Associado , Por Placa ",nan,nan,Aplicativo Ocorrências 
+Taxa de Ocorrências com Monta Pequena,"Por Associado , Por Placa ",nan,nan,Aplicativo Ocorrências 
+Taxa de Ocorrências com Monta Média,"Por Associado , Por Placa ",nan,nan,Aplicativo Ocorrências 
+Taxa de Ocorrências com Monta Grande,"Por Associado , Por Placa ",nan,nan,Aplicativo Ocorrências 
+Índice de Recorrência,nan,nan,nan,Aplicativo Ocorrências 
+Taxa de Ocorrências em Aberto,"Por Associado , Por Placa ",nan,nan,Aplicativo Ocorrências 
+Taxa de Recuperação por Sistema Antifurto,"Por Associado , Por Placa ",nan,nan,Aplicativo Ocorrências 
+Média de Associados Participantes por Ocorrência,nan,nan,nan,Aplicativo Ocorrências 
+Taxa de Equipamentos Sem Rateio,Por Associado ,nan,nan,Aplicativo Equipamentos 
+Taxa de Equipamentos Sem Mensalidade,Por Associado ,nan,nan,Aplicativo Equipamentos 
+Taxa de Equipamentos sem Rateio Antifurto,Por Associado ,nan,nan,Aplicativo Equipamentos 
+Taxa de Equipamentos com Boleto Gerado,Por Associado ,nan,nan,Aplicativo Equipamentos 
+Tempo Médio Entre Ocorrências,nan,nan,nan,Aplicativo Equipamentos 
+Taxa de Equipamentos sem Contribuição,Por Associado ,nan,nan,Aplicativo Equipamentos 
+Taxa de Caminhões,nan,nan,nan,Aplicativo Equipamentos 
+Taxa de Semi-Reboques,nan,nan,nan,Aplicativo Equipamentos 
+Taxa de Veículos sem Atualização Pela Tabela Fipe,nan,nan,nan,Aplicativo Equipamentos 
+Base Média para Rateio no Período,nan,nan,nan,Aplicativo Equipamentos 
+Taxa de Boletos Emitidos,"Por Placa , Por Associado ",nan,nan,Aplicativo Boletos Eventuais 
+Taxa de Pagamento Antecipado,"Por Placa , Por Associado ",nan,nan,Aplicativo Boletos Eventuais 
+Tempo Médio de Recebimento Boletos Eventuais,"Por Associado , Por Placa ",nan,nan,Aplicativo Boletos Eventuais 
+Valor Total de Boletos Emitidos Boletos Associados,"Por Associado , Por Placa ",nan,nan,Aplicativo Boletos Eventuais 
+Valor Total de Boletos Pagos Boletos Associados,"Por Associado , Por Placa ",nan,nan,Aplicativo Boletos Eventuais 
+Taxa de Boletos Pagos Após o Vencimento,"Por Associado , Por Placa ",nan,nan,Aplicativo Boletos Eventuais 
+Taxa de Inadimplência,"Por Associado , Por Placa ",nan,nan,Aplicativo Boletos Eventuais 
+Taxa de Boletos Contestados,"Por Associado , Por Placa ",nan,nan,Aplicativo Boletos Eventuais 
+Taxa de Renegociação de Boletos,"Por Associado , Por Placa ",nan,nan,Aplicativo Boletos Eventuais 
+Taxa de Cancelamento de Boletos,"Por Associado , Por Placa ",nan,nan,Aplicativo Boletos Eventuais 
+Valor Médio por Boleto Emitido,"Por Associado , Por Placa ",nan,nan,Aplicativo Boletos Eventuais 
+Enviados para Protesto,Por Associado ,nan,nan,Aplicativo Boletos Eventuais 
+Variação da Taxa de Emissão no Período,"Por Associado , Por Placa ",nan,nan,Aplicativo Boletos Eventuais 
+Valor Total de Notas Emitidas NF-e,"Por Funcionário , Por Cliente , Por Produto , Por Transação ",Valor total de notas fiscais emitidas no período.,nan,Aplicativo NF-e 
+Retorno sobre Investimento de Comissão,"Por Funcionário , Por Cliente , Por Representante , Por Agência ",Comparação do lucro como resultado das comissões com o custo dessas comissões.,nan,Aplicativo Comissão de Venda 
+Total de Acréscimo,"Por Funcionário , Por Fornecedor , Por Produto ",Valor total dos acréscimos registrados nas notas de entrada.,nan,Aplicativo Compra 
+Total de Seguro,"Por Fornecedor , Por Funcionário , Por Produto ",Valor total de seguro incluído nas notas de entrada.,nan,Aplicativo Compra 
+Valor Total de Ocorrências,"Por Associado , Por Placa ",nan,nan,Aplicativo Ocorrências 
+Valor Total de Notas Sem Faturamento NFS-e,"Por Cliente , Por Funcionário , Por Serviço ",Valor Total de Notas Fiscais de Serviço emitidas sem faturamento da Ordem de Serviço.,BI,Aplicativo NFS-e 
+Valor Total de Notas sem Faturamento NF-e,nan,nan,"BI, Revisar",Aplicativo NF-e 
+Valor Total de Desconto NFS-e,"Funcionário , Cliente , Serviço ",Valor total de desconto aplicado em notas emitidas no período,BI,Aplicativo NFS-e 
+Valor Total de Notas Emitidas Após o Faturamento,nan,Valor total de notas emitidas após o faturamento da ordem de serviço,BI,Aplicativo NFS-e 
+Valor Total de Desconto NF-e,nan,Valor total de desconto aplicado em notas fiscais emitidas no período,BI,Aplicativo NF-e 
+Valor Total de Desconto NFC-e,"Por Cliente , Por Funcionário , Por Produto ",Valor total de desconto aplicado nas notas fiscais de consumidor emitidas no período,BI,Aplicativo NFC-e 
+Valor Total de Notas sem Faturamento NFC-e,"Por Cliente , Por Funcionário , Por Produto ","Montante total das notas fiscais de consumidor que foram emitidas mas, que não passaram pelo processo de faturamento",BI,Aplicativo NFC-e 
+Valor Total de Notas Após Faturamento NFC-e,"Por Cliente , Por Funcionário , Por Produto ",Montante agregado das notas fiscais emitidas para consumidores após a conclusão do processo de faturamento.,BI,Aplicativo NFC-e 
+Valor Total de Horas Extras,"Funcionário , Setor ",Montante total pago em horas extras para os funcionários em um determinado período.,BI,Aplicativo Folha de Pagamento 
+Valor Total de Adiantamentos,"Por Funcionário , Por Setor ","Soma de todos os valores pagos antecipadamente aos funcionários, antes da data regular de pagamento.",BI,Aplicativo Folha de Pagamento 
+Valor Total de Folhas,"Por Setor , Por Funcionário ","Soma de todos os pagamentos feitos aos funcionários em um determinado período, incluindo salários, impostos retidos, contribuições previdenciárias e outros encargos trabalhistas.",nan,Aplicativo Folha de Pagamento 
+Valor Total de Horas Faltas,"Por Funcionário , Por Setor ","Quantia monetária correspondente ao tempo de trabalho que não foi cumprido pelos funcionários devido a faltas, sejam elas justificadas ou não.",BI,Aplicativo Folha de Pagamento 
+Valor Total de Bonificação,nan,"Soma de todas as bonificações, prêmios ou incentivos financeiros concedidos aos funcionários",BI,Aplicativo Folha de Pagamento 
+Custo Médio,"Funcionário , Fornecedor ",Custo médio das notas de entrada no período.,nan,Aplicativo Compra 
+Diminuição da Margem de Lucro,"Funcionário , Fornecedor , Produto ",Variação negativa na margem de lucro dos produtos das notas de entrada.,nan,Aplicativo Compra 
+Parcela Divergente no Financeiro,"Funcionário , Fornecedor ",Número de notas de entrada cujas parcelas originais divergem das registradas no financeiro.,nan,Aplicativo Compra 
+Elevação de Custo,"Funcionário , Fornecedor ",Percentual de elevação de custos dos produtos das notas de entrada.,nan,Aplicativo Compra 
+Valor Total de Estoque,"Por Produto , Por Fornecedor ",Valor monetário total dos itens atualmente mantidos em estoque.,nan,Aplicativo Múltiplos Estoques 
+Total de Acréscimo PAF,nan,Valor total gerado por acréscimos nas vendas.,nan,Aplicativo PAF 
+Total de Descontos PAF,nan,Total dos descontos concedidos nas vendas.,nan,Aplicativo PAF 
+Total de Cupons Cancelados,nan,Valor total de cupons fiscais que foram cancelados.,nan,Aplicativo PAF 
+Total de Lucro,nan,Lucro total obtido através de vendas e ordens de serviço.,nan,Aplicativo Mecânica 
+Serviços Sem Placa Informada,nan,Número de ordens de serviço sem a inclusão da informação da placa do veículo.,nan,Aplicativo Mecânica 
+Total de Ordens de Serviço,nan,Valor total gerado pelas ordens de serviço registradas.,nan,Aplicativo Mecânica 
+Desconto,nan,Valor total dos descontos aplicados através das diferentes tabelas de preço.,nan,Aplicativo Tabela de Preço 
+Acréscimo,nan,Valor total dos acréscimos aplicados nos produtos com base nas diferentes tabelas de preço.,nan,Aplicativo Tabela de Preço 
+Total de Recebimentos Financeiro,nan,Total recebido pela empresa no período selecionado.,nan,Aplicativo Financeiro 
+Total de Pagamentos,nan,Total de pagamentos realizados pela empresa durante um determinado período.,nan,Aplicativo Financeiro 
+Saldo Atual,nan,Total de fundos disponíveis que a empresa possui no período.,nan,Aplicativo Financeiro 
+Valor Total de Juros,nan,Soma dos valores de juros que foram acrescentados ao montante original de boletos emitidos.,nan,Aplicativo Boletos 
+Valor Total de Desconto Boletos,nan,Soma dos valores de descontos concedidos em boletos emitidos.,BI,Aplicativo Boletos 
+Valor Total de Multa,nan,Soma dos valores referentes às multas aplicadas em boletos emitidos que não foram pagos até a data de vencimento.,nan,Aplicativo Boletos 
+Valor Total de Cancelamentos,nan,Soma dos valores de todos os boletos que foram emitidos pela empresa e posteriormente cancelados.,BI,Aplicativo Boletos 
+Compras Geradas,"Funcionário , Produto ",Número de solicitações que foram aprovadas e as respectivas compras efetuadas.,nan,Aplicativo Solicitação de Compra 
+Valor Total Solicitação de Compra,"Funcionário , Produto ",Valor total de solicitações de compra efetuadas no perído.,nan,Aplicativo Solicitação de Compra 
+Custo Total de Prospecção,Funcionário ,Custo total envolvido nas propostas efetuadas.,nan,Aplicativo Proposta 
+Valor Total de Divergências,"Por Produto , Por Fornecedor ",Valor total das diferenças encontradas entre os registros contábeis do inventário e os resultados das contagens físicas durante um balanço de estoque.,BI,Aplicativo Balanço de Estoque 
+Lucro Total,"Por Variação , Por Fornecedor ",Valor total de Lucro gerado por grades de produto.,nan,Aplicativo Grade 
+Taxa de Rastreabilidade,nan,"Eficácia com que se pode rastrear e identificar a origem, o processamento e a distribuição de lotes específicos de produtos ao longo de toda a cadeia de suprimentos",nan,Aplicativo Lote 
+Valor Total Lote,nan,Valor financeiro total de um lote específico de produtos.,nan,Aplicativo Lote 
+Taxa de Perdas,"Por Produto , Por Fornecedor ",Porcentagem de produtos do estoque que são perdidos.,nan,Aplicativo Múltiplos Estoques 
+Taxa de Horas Faltas,nan,nan,nan,Aplicativo Ficha-Ponto 
+Custo Total de Funcionários,nan,nan,nan,Aplicativo Funcionários 
+Taxa de Ocorrências,nan,nan,nan,Aplicativo Ocorrências 
+Valor Total Excedente de Estoque,"Por Fornecedor , Por Produto ",Valor monetário total de produtos que excedem o nível ideal de estoque da empresa.,BI,Aplicativo Estoque 
+Volume Total de Estoque,Por Fornecedor ,Quantidade total de produtos armazenados na empresa.,nan,Aplicativo Estoque 
+Valor Total de Desconto Grade,"Por Fornecedor , Por Produto , Por Variação ",Valor total dos descontos aplicados em grades de produto.,BI,Aplicativo Grade 
+Valor Total de Acréscimo Grade,"Por Fornecedor , Por Produto , Por Variação ",Valor total de acréscimo aplicado a grades de produtos.,nan,Aplicativo Grade 
+Custo Total do Balanço de Estoque,nan,Valor total dos gastos associados à realização do balanço físico da empresa.,Revisar,Aplicativo Balanço de Estoque 
+Média de Etapas,Por Produto ,Quantidade média de etapas distintas que cada produto passa no processo de produção.,nan,Aplicativo Fluxo de Produto 
+Ordens de Serviço Vinculadas,nan,"Contagem de ordens de serviço que, embora não façam parte do escopo principal do projeto, foram vinculadas a ele.",nan,Aplicativo Projeto 
+Valor Total de Projetos Cancelados,"Por Funcionário , Por Motivo ","Custo acumulado de todos os projetos que foram iniciados, mas posteriormente cancelados.",BI,Aplicativo Projeto 
+Média de Tempo de Espera,"Por Produto , Por Etapa ",Tempo médio de espera que um produto passa entre diferentes etapas do processo de produção,nan,Aplicativo Fluxo de Produto 
+Valor Total de Divergências de Custo,"Por Funcionário , Por Motivo ",Soma dos desvios ou variações entre os custos planejados e os custos reais em projetos.,BI,Aplicativo Projeto 
+Valor Total de Projetos,"Por Funcionário , Por Status ",Soma do valor de todos os projetos em andamento ou concluídos dentro de um período específico.,BI,Aplicativo Projeto 
+Duração Média de Projetos,nan,"Tempo médio que os projetos levam para serem completados, desde o seu início até a conclusão.",nan,Aplicativo Projeto 
+Retorna Estoque,nan,Matérias-primas que podem retornar ao estoque após a desistência ou devolução pelo cliente.,nan,Aplicativo Fabricação  %202b62cebcd67c4bd1bc2d4f3f2fc8e6ed.md)
+Total de Juros Recebidos,nan,Soma de todos os juros que a empresa recebeu durante o período.,nan,Aplicativo Financeiro 
+Total de Multas Recebidas,"Por Cliente , Por Fornecedor ",Total das multas financeiras aplicadas sobre os valores recebidos.,Revisar,Aplicativo Financeiro 
+Total de Descontos Obtidos,nan,Valor total dos descontos que a empresa recebeu em suas transações de compra.,nan,Aplicativo Financeiro 
+Recebimentos Realizados,nan,Valor total recebido em caixa.,nan,Aplicativo Caixa 
+Alteração do Valor Inicial,nan,Alterações realizadas no saldo inicial do caixa.,BI,Aplicativo Caixa 
+Valor Total de Notas Emitidas Após o Faturamento ,nan,nan,BI,Aplicativo NF-e 
+Valor de Desconto Concedido,"Cliente , Condição de Pagamento ",Valor total de descontos aplicados nas parcelas recebidas.,BI,Aplicativo Caixa 
+Valor de Juros Recebidos,"Por Cliente , Por Condição de Pagamento ",Valor total de juros sobre os valores recebidos no caixa.,nan,Aplicativo Caixa 
+Total de Transferências,nan,Valor total das transferências realizadas do caixa para contas bancárias.,nan,Aplicativo Caixa 
+Lançamentos de Terceiros,"Funcionário , Tipo de Pagamento ",Lançamentos desconhecidos no caixa efetuados por outros funcionários.,BI,Aplicativo Caixa 
+Emissão de Notas Fiscais Pendentes,nan,Número de notas fiscais que ainda não foram emitidas para as mensalidades geradas.,nan,Aplicativo Contratos 
+Emissão de Boletos Pendentes,nan,Número de boletos que ainda não foram emitidos para as mensalidades já geradas.,nan,Aplicativo Contratos 
+Mensalidades Pendentes de Envio,nan,Mensalidades geradas que ainda não foram enviadas aos clientes.,nan,Aplicativo Contratos 
+Percentual de Reajuste,nan,Percentual aplicado sobre os valores de mensalidades recorrentes de um período para outro.,nan,Aplicativo Contratos 
+Saldo Negativo,nan,Quantidade de Demonstrações de Resultado do Exercício  que apresentam saldo negativo.,nan,DRE 
+Plano de Contas Sem Classificação,nan,Planos de Conta pendentes de classificação para o DRE.,nan,DRE 
+Plano de Contas Ausente,nan,Lançamentos financeiros que não foram vinculados a um plano de contas.,nan,DRE 
+Valores Não Alocados em Centros de Custo,nan,nan,nan,DRE 
+Custos Diretos e Indiretos,nan,Percentual de custos diretos e indiretos registrados no DRE.,nan,DRE 
+Total de Estornos,"Cliente , Funcionário , Condição de Pagamento , Tipo de Pagamento , Conta Bancária ",Valor total de recebimentos que foram estornados no período.,nan,Aplicativo Recebimento 
+Parcelas Agrupadas Recebimento,"Cliente , Funcionário , Condição de Pagamento , Tipo de Pagamento , Conta Bancária ",Número de parcelas que foram agrupadas.,nan,Aplicativo Recebimento 
+Parcelas Divididas Recebimento,"Funcionário , Cliente , Condição de Pagamento , Tipo de Pagamento , Conta Bancária ",Número de Parcelas que foram dividas no período.,nan,Aplicativo Recebimento 
+Parcelas Duplicadas Recebimento,"Funcionário , Cliente , Condição de Pagamento , Tipo de Pagamento , Conta Bancária ",Número de Parcelas que foram duplicadas no período.,nan,Aplicativo Recebimento 
+Alteração de Baixa,"Funcionário , Cliente , Tipo de Pagamento , Condição de Pagamento , Conta ",Lançamentos Recebidos ou Pagos que sofreram alteração de baixa.,BI,Aplicativo Financeiro 
+Parcelas Agrupadas Financeiro,"Cliente , Funcionário , Conta , Tipo de Pagamento , Condição de Pagamento ",Número de Parcelas que foram agrupadas no período.,nan,Aplicativo Financeiro 
+Parcelas Divididas Financeiro,"Cliente , Funcionário , Tipo de Pagamento , Condição de Pagamento , Conta , Sem título ",Número de Parcelas que foram divididas.,BI,Aplicativo Financeiro 
+Parcelas Duplicadas Financeiro,"Cliente , Funcionário , Conta , Tipo de Pagamento , Condição de Pagamento ",nan,BI,Aplicativo Financeiro 
+Notas Fiscais Emitidas,nan,Número de notas fiscais emitidas referentes as vendas realizadas.,nan,Aplicativo PAF 
+Comissões Pendentes,"Por Funcionário , Por Representante , Por Agência ","Valor das comissões que já foram geradas, mas não foram inseridas nos relatórios para pagamento.",nan,Aplicativo Comissão de Venda 
+Total de Comissões,nan,Valor total das comissões que foram geradas no período.,nan,Aplicativo Comissão de Venda 
+Créditos Pagos,nan,Total dos créditos que foram pagos aos clientes.,nan,Aplicativo Crédito de Cliente 
+Créditos Cancelados,nan,Valor total dos créditos em haver de clientes que foram cancelados.,nan,Aplicativo Crédito de Cliente 
+Excluídos,nan,Cadastros de Markup que foram excluídos no período.,nan,Aplicativo Markup 
+Pendentes de Análise,"Funcionário , Produto ","Número de solicitações de compra que foram efetuadas, porém estão pendentes de análise.",nan,Aplicativo Solicitação de Compra 
+Em Análise,"Funcionário , Produto ",Número de solicitações de compra que estão no processo de análise.,nan,Aplicativo Solicitação de Compra 
+Rendimento Alterado,"Fornecedor , Funcionário ",Alterações no rendimento dos produtos das notas de entrada.,nan,Aplicativo SubUnidade 
+Novas Notas,Fornecedor ,Número de novas notas fiscais eletrônicas emitidas contra o CNPJ da empresa.,nan,Aplicativo Manifestação do Destinatário 
+Lançar na Compra,Fornecedor ,Número de xmls obtidos através da manifestação que podem ser lançados como compras no sistema.,nan,Aplicativo Manifestação do Destinatário 
+Finalizadas,Fornecedor ,Número de notas que tiveram o processo de manifestação e lançamento da compra finalizados.,nan,Aplicativo Manifestação do Destinatário 
+Canceladas,Fornecedor ,Número de notas fiscais eletrônicas canceladas que foram a obtidas através da manifestação do destinatário.,nan,Aplicativo Manifestação do Destinatário 
+Fornecedor Não Cadastrado,Fornecedor ,Número de notas cujo fornecedor não está cadastrado no sistema.,nan,Aplicativo Manifestação do Destinatário 
+Volume de Agendamentos,"Funcionário , Cliente ",Número total de agendamentos realizados no período.,nan,Aplicativo Agendamento 
+Proposta Em Aberto,"Funcionário , Cliente ",Número total de propostas que estão em aberto.,nan,Aplicativo Proposta 
+Volume Total,"Funcionário , Cliente , Fornecedor , Produto ",Número total de devoluções efetuadas.,nan,Aplicativo Devolução 
+Valor Total Devolução,"Funcionário , Fornecedor , Cliente , Produto ",Valor total das devoluções efetuadas no período.,nan,Aplicativo Devolução 
+Total Frete Devolução,"Cliente , Fornecedor , Funcionário , Produto ",Valor total de frete incluído em devoluções efetuadas.,nan,Aplicativo Devolução 
+Total Acréscimo Devolução,"Funcionário , Cliente , Fornecedor , Produto ",Valor total de acréscimo aplicado nas devoluções efetuadas.,nan,Aplicativo Devolução 
+Total Desconto Devolução,"Funcionário , Fornecedor , Cliente , Produto ",Valor total de descontos aplicados em notas de devolução.,nan,Aplicativo Devolução 
+Total Impostos,"Funcionário , Cliente , Fornecedor , Produto ",Valor total de Impostos sobre as devoluções efetuadas.,"CofinsDevol, ICMSDevol, ICMSSTDevol, IPIDevol, PISDevol",Aplicativo Devolução 
+Valor Total de Notas,"Fornecedor , Cliente , Funcionário , Produto ",Valor total de notas de devolução emitidas no período.,nan,Aplicativo Devolução 
+Sem Tributação,"Fornecedor , Cliente , Funcionário , Produto ",Número de notas fiscais de devolução em que os dados de tributação estão ausentes ou incompletos.,nan,Aplicativo Devolução 
+NCM inválido ou Ausente NFS-e,Produto ,nan,nan,Aplicativo NFS-e 
+Unidade Ausente NFS-e,Produto ,"Número de produtos que estão sem a unidade de medida informada, sendo esta obrigatória na emissão de notas fiscais de serviço.",nan,Aplicativo NFS-e 
+Cadastros sem Regime Tributário Informado NFS-e,"Cliente , Fornecedor ",Número de cadastros onde o regime tributário não foi informado.,nan,Aplicativo NFS-e 
+Cadastros sem Tipo de Consumidor informado NFS-e,"Cliente , Fornecedor ",Número de cadastrados onde o tipo de consumidor não foi informado.,nan,Aplicativo NFS-e 
+Endereço Incompleto NFS-e,"Cliente , Fornecedor ",Número de cadastros onde o endereço está incompleto.,nan,Aplicativo NFS-e 
+Com ISS Retido,"Cliente , Fornecedor ",Número de cadastros de cliente com ISS Retido.,nan,Aplicativo NFS-e 
+Contribuintes sem Inscrição Estadual NFS-e,"Cliente , Fornecedor ","Cadastros marcados como contribuintes, porém ausentes de inscrição estadual.",nan,Aplicativo NFS-e 
+Isentos com Inscrição Estadual NFS-e,"Cliente , Fornecedor ",Número de cadastros classificados como isentos que estão preenchidos erroneamente com inscrição estadual.,nan,Aplicativo NFS-e 
+Não Contribuintes com Inscrição Estadual NFS-e,"Fornecedor , Cliente ",Número de cadastros não contribuintes que foram preenchidos erroneamente com inscrição estadual.,nan,Aplicativo NFS-e 
+Código de Município Inválido NFS-e,nan,Número de cadastros onde o código do município informado difere do estabelecido pelo IBGE.,nan,Aplicativo NFS-e 
+NCM inválido ou Ausente NF-e,Produto ,"Número de produtos onde o NCM está ausente ou é inválido, sendo este obrigatório para emissão de notas fiscais eletrônicas.",nan,Aplicativo NF-e 
+Sem Grupo de Imposto NF-e,Produto ,Número de produtos que não estão com o grupo de imposto preenchido.,nan,Aplicativo NF-e 
+Unidade Ausente NF-e,Produto ,"Número de produtos onde a unidade de medida não foi informada. Informação esta, obrigatória na emissão de notas fiscais.",nan,Aplicativo NF-e 
+Código EAN inválido NF-e,Produto ,Número de produtos cujo código EAN informado é inválido.,nan,Aplicativo NF-e 
+Cadastros sem Regime Tributário Informado NF-e,"Cliente , Fornecedor ",Número de cadastros onde o regime tributário não foi informado.,nan,Aplicativo NF-e 
+Cadastros sem Tipo de Consumidor informado NF-e,"Cliente , Fornecedor ",Número de cadastros onde o tipo de consumidor não foi informado.,nan,Aplicativo NF-e 
+Endereço Incompleto NF-e,"Cliente , Fornecedor ",Número de cadastros onde as informações do endereço estão ausentes ou incompletas.,nan,Aplicativo NF-e 
+Telefone Não Informado ou Incompleto NFS-e,nan,Número de cadastros onde o número de telefone não foi informado ou está incompleto.,nan,Aplicativo NFS-e 
+Telefone Não Informado ou Incompleto NF-e,"Cliente , Fornecedor ",Número de cadastros onde o telefone não foi informado ou está incompleto.,nan,Aplicativo NF-e 
+Contribuintes sem Inscrição Estadual NF-e,"Cliente , Fornecedor ","Número de cadastros classificados como contribuintes, porém com ausência da inscrição estadual.",nan,Aplicativo NF-e 
+Isentos com Inscrição Estadual NF-e,"Fornecedor , Cliente ","Número de cadastros classificados como isentos que, erroneamente foram preenchidos com inscrição estadual.",nan,Aplicativo NF-e 
+Não Contribuintes com Inscrição Estadual NF-e,"Cliente , Fornecedor ",Número de cadastros classificados como Não Contribuintes que erroneamente possuem Inscrição Estadual.,nan,Aplicativo NF-e 
+Código de Município Inválido NF-e,"Cliente , Fornecedor ",Número de cadastros onde o código do município diverge do estabelecido pelo IBGE.,nan,Aplicativo NF-e 
+NCM inválido ou Ausente NFC-e,Produto ,nan,nan,Aplicativo NFC-e 
+Sem Grupo de Imposto NFC-e,Produto ,Número de produtos sem grupo de imposto informado.,nan,Aplicativo NFC-e 
+Unidade Ausente NFC-e,Produtos ,Produtos em que a unidade de medida não foi informada no cadastro.,nan,Aplicativo NFC-e 
+Código EAN inválido NFC-e,nan,Número de Produtos cujo código EAN é inválido.,nan,Aplicativo NFC-e 
+Cadastros sem Regime Tributário Informado NFC-e,"Cliente , Fornecedor ",Número de cadastros onde o regime tributário não foi informado.,nan,Aplicativo NFC-e 
+Cadastros sem Tipo de Consumidor informado NFC-e,"Cliente , Fornecedor ",Número de cadastrados onde o tipo de consumidor não foi informado.,nan,Aplicativo NFC-e 
+Endereço Incompleto NFC-e,"Cliente , Fornecedor ",Número de cadastros onde o endereço está incompleto.,nan,Aplicativo NFC-e 
+Telefone Não Informado ou Incompleto NFC-e,"Cliente , Fornecedor ",Número de cadastros onde o número de telefone não foi informado ou está incompleto.,nan,Aplicativo NFC-e 
+Código de Município Inválido NFC-e,"Cliente , Fornecedor ",Número de cadastros onde o código do município difere do código estabelecido pelo IBGE.,nan,Aplicativo NFC-e 
+Clientes sem Número de Celular Venda,"Cliente , Fornecedor ",Número de cadastro de clientes onde o número de celular não foi informado.,nan,Aplicativo Venda 
+Clientes sem Email cadastrado Venda,Cliente ,Número de cadastros de clientes onde o endereço de email não foi informado.,nan,Aplicativo Venda 
+Clientes sem Contato informado Venda,Cliente ,Número de cadastros de cliente onde não foi informado um contato.,nan,Aplicativo Venda 
+Clientes sem Consulta ao SPC Venda,Cliente ,Número de cadastros de clientes que não foram submetidos a consulta no SPC.,nan,Aplicativo Venda 
+Clientes sem limite de desconto Venda,Cliente ,Número de cadastros de clientes que não possuem um limite de desconto aplicado.,nan,Aplicativo Venda 
+Clientes sem Número de Celular Mecânica,Cliente ,Número de cadastros de clientes onde o número de celular não foi informado.,nan,Aplicativo Mecânica 
+Clientes sem Email cadastrado Mecânica,Cliente ,Número de cadastros de clientes sem o endereço de email.,nan,Aplicativo Mecânica 
+Clientes sem Contato informado Mecânica,Cliente ,Número de cadastros de clientes sem um contato informado.,nan,Aplicativo Mecânica 
+Clientes sem Consulta ao SPC Mecânica,Cliente ,Número de cadastros de cliente que não foram submetidos a consulta no SPC.,nan,Aplicativo Mecânica 
+Clientes sem limite de desconto Mecânica,Cliente ,Número de cadastros de cliente sem limite de desconto.,nan,Aplicativo Mecânica 
+Clientes Com Tabela de preço,"Cliente , Produto , Sem título ",Número de clientes que foram vinculados a uma tabela de preço.,nan,Aplicativo Tabela de Preço 
+Cadastros sem Agência,nan,Número de cadastros não vinculados a uma agência.,nan,Aplicativo Comissão de Venda 
+Cadastros sem Taxa de Comissão,nan,Número de cadastros onde não foi informada a taxa para cálculo de comissão.,nan,Aplicativo Comissão de Venda 
+Cadastros sem Representante,nan,Número de cadastros que não foram vinculadas a um representante.,nan,Aplicativo Comissão de Venda 
+Cadastros sem Funcionários,nan,Número de cadastros sem funcionário vinculado.,nan,Aplicativo Comissão de Venda 
+Serviços sem Funcionário,"Cliente , Serviço ",Número de serviços onde o funcionário responsável não foi informado.,nan,Aplicativo Mecânica 
+Próximos do Vencimento,Cliente ,Número de contratos próximos do vencimento.,nan,Aplicativo Contratos 
+Excluídas,"Cliente , Funcionário ",Número de propostas de vendas que foram excluídas no período.,nan,Aplicativo Proposta 
+Alteradas Após Emissão de Nota,"Funcionário , Cliente , Fornecedor , Produto ",Número de devoluções que foram alteradas após a emissão de nota fiscal.,nan,Aplicativo Devolução 
+Tarefa,nan,nan,nan,Aplicativo NFS-e 
